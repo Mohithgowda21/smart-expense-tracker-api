@@ -17,7 +17,7 @@ http://127.0.0.1:8000/docs
 
 ## Run Tests
 ```bash
-pytest
+python -m pytest
 ```
 
 # https-github.com-Mohithgowda21-smart-expense-tracker-api
