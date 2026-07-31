@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Smart Expense Tracker API
 
@@ -19,8 +19,8 @@ http://127.0.0.1:8000/docs
 ```bash
 pytest
 ```
-=======
+
 # https-github.com-Mohithgowda21-smart-expense-tracker-api
 
 A REST API built with FastAPI to manage personal expenses with CRUD operations, category filtering, and expense summaries.
->>>>>>> 1b4c107794b6516cc3e93c116f893e02643e2a4d
+ 1b4c107794b6516cc3e93c116f893e02643e2a4d
